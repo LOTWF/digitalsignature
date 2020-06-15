@@ -8,3 +8,8 @@
 7.click save, a message is shown when completed <br /> 
 9.your filename_digital.png will be made in the same folder as the original file<br /> 
 10.You can paste the digital signature into any pdf
+
+_________________________________________________________
+From source,
+pip install numpy Pillow
+run source.py
